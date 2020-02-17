@@ -12,7 +12,7 @@ cursor: crosshair;}
 .hamutabe{
 	margin: auto;
 	 display: inline-block;
-    animation: hurueru .s  infinite;
+    animation: hurueru .7s  infinite;
 }
 
 @keyframes hurueru {
@@ -46,7 +46,7 @@ filter: alpha(opacity=60);
 .oekaki {
 	margin: auto;
 		overflow:auto;
-		width:500px; height: 50vh;
+		width:500px; height: 70vh;
 	padding:5px;
 		border:none;
 		color:#e8e8e8;
