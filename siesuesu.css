@@ -12,7 +12,7 @@ cursor: crosshair;}
 .hamutabe{
 	margin: auto;
 	 display: inline-block;
-    animation: hurueru .6s  infinite;
+    animation: hurueru .s  infinite;
 }
 
 @keyframes hurueru {
