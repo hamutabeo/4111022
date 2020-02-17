@@ -3,7 +3,8 @@ body{
 	background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;	text-align: center;
+  height: 100vh;
+	text-align: center;
 	cursor: default;
 	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'  }
 a{
