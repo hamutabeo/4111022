@@ -1,0 +1,79 @@
+body{
+	background-image: url("haikei.png");
+	background-size: cover;
+	text-align: center;
+	cursor: default;
+}
+a{
+cursor: crosshair;}
+.hamutabe{
+	margin: auto;
+	 display: inline-block;
+    animation: hurueru .6s  infinite;
+}
+
+@keyframes hurueru {
+    0% {transform: translate(0px, 0px) rotateZ(0deg)}
+    25% {transform: translate(1px, 1px) rotateZ(1deg)}
+    50% {transform: translate(0px, 1px) rotateZ(0deg)}
+    75% {transform: translate(1px, 0px) rotateZ(-1deg)}
+    100% {transform: translate(0px, 1px) rotateZ(0deg)}
+					}
+
+
+.botangumi{
+display: flex;
+						justify-content: center;
+					}
+.twitter:hover{
+opacity: 0.6;
+filter: alpha(opacity=60);
+-moz-opacity:0.6;
+}
+.insta:hover{
+opacity: 0.6;
+filter: alpha(opacity=60);
+-moz-opacity:0.6;
+}
+.mail:hover{
+opacity: 0.6;
+filter: alpha(opacity=60);
+-moz-opacity:0.6;
+}
+.oekaki {
+	margin: auto;
+		overflow:auto;
+		width:500px; height:500px;
+		padding:5px;
+		border:none;
+		color:#e8e8e8;
+		background-color:rgba(255,255,255,0.5);
+		line-height:1.5em;
+					}
+.oekaki::-webkit-scrollbar {
+  width: 15px;
+  height: 10px;
+					}
+.oekaki::-webkit-scrollbar-track {
+  border-radius: 5px;
+  box-shadow: 0 0 0px #aaa inset;
+					}
+.oekaki::-webkit-scrollbar-thumb {
+  border-radius: 0px;
+  background: #ff1493;
+}
+.nakami{
+	text-align: center;
+					}
+					.jiko{
+						color:#ff1493;
+						font-size: medium;
+						font-weight: bold;
+						  background: linear-gradient(transparent 50%, #a8eaff 50%);
+					}
+					.hosoku{
+						color:#ff1493;
+						font-size: small;
+						font-weight: bold;
+						background: linear-gradient(transparent 50%, #a8eaff 50%);
+					}
