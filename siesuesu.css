@@ -7,7 +7,7 @@ body{
   height: 100vh;
 	text-align: center;
 	cursor: default;
-	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic'
+	font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic';
 animation: bodyFadeIn 2s ease 0s 1 normal;
 	-webkit-animation: bodyFadeIn 2s ease 0s 1 normal;
 }
