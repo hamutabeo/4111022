@@ -1,6 +1,7 @@
 body{
 	background-image: url("haikei.png");
 	background-position: center center;
+	background-color: #ff1493;
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
